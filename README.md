@@ -12,5 +12,8 @@ Java | Selenium 4 | TestNG | Maven | Git | Extent Reports | WebDriverWait
 ### ▶️ Run
 mvn clean test
 
+## Test Execution Screenshot
+![Test Result](Screenshot%202026-10-13%20083000.png)
+
 ### 👨‍💻 Author
 Saurabh Yevale | QA Automation Tester | Pune
